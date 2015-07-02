@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway);
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
 
 body {
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
@@ -44,7 +44,7 @@ h2, h3 {
 	color: #505050;
 }
 
-#main {
+main {
 	margin-left: 30%;
 	margin-right: 20px;
 	margin-top: 20px;
